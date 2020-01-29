@@ -32,7 +32,7 @@ The Twente.me logo consists of in a Twente Red background (#F00000).
       <td>
         <img alt="" height="50" width="50" src="https://raw.githubusercontent.com/TwenteMe/branding/master/examples/colors/university-pink.svg?sanitize=true">
         <div>University Pink</div>
-        <div>#E056FD</div>
+        <div>#F000F0</div>
       </td>
     </tr>
     <tr>

@@ -26,7 +26,7 @@
       <td>
         <img alt="" height="50" width="50" src="https://raw.githubusercontent.com/TwenteMe/branding/master/examples/colors/university-pink.svg?sanitize=true">
         <div>University Pink</div>
-        <div>#E056FD</div>
+        <div>#F000F0</div>
       </td>
     </tr>
     <tr>
@@ -63,31 +63,31 @@
 
 ![](https://raw.githubusercontent.com/TwenteMe/branding/master/examples/colors/twente-red.jpg)
 
-Twente Red (#F00000) is inspired by the dynamic region of Twente, as dynamized by FC Twente.
+Twente Red (#F00000) is inspired by the dynamic region of Twente, as showcased by fans of FC Twente. It's the official and primary color of the Twente.me project.
 
 ## ![](https://raw.githubusercontent.com/TwenteMe/branding/master/examples/colors/enschede-sky.svg?sanitize=true) Enschede Sky
 
 ![](https://raw.githubusercontent.com/TwenteMe/branding/master/examples/colors/enschede-sky.jpg)
 
-Enschede Sky (#0078F0) is inspired by the beautiful blue sky of Enschede.
+Enschede Sky (#0078F0) is inspired by the beautiful blue sky above the city Enschede. It's the primary blue shade, used by links and information states, and is one of the two split complementary colors of Twente Red.
 
 ## ![](https://raw.githubusercontent.com/TwenteMe/branding/master/examples/colors/sallandse-green.svg?sanitize=true) Sallandse Green
 
 ![](https://raw.githubusercontent.com/TwenteMe/branding/master/examples/colors/sallandse-green.jpg)
 
-Sallandse Green (#00B894) is inspired by the greens of Sallandse Heuvelrug National Park.
+Sallandse Green (#00B894) is inspired by the undisturbed greens of Sallandse Heuvelrug National Park. It's used for success states, and is one of the two split complementary colors of Twente Red.
 
 ## ![](https://raw.githubusercontent.com/TwenteMe/branding/master/examples/colors/hellendoorn-gold.svg?sanitize=true) Hellendoorn Gold
 
 ![](https://raw.githubusercontent.com/TwenteMe/branding/master/examples/colors/hellendoorn-gold.jpg)
 
-Hellendoorn Gold (#F9CA24) is inspired by the bright yellow rides at Avonturenpark Hellendoorn.
+Hellendoorn Gold (#F9CA24) is inspired by the bright yellow rides at Avonturenpark Hellendoorn. It's used for warning states.
 
 ## ![](https://raw.githubusercontent.com/TwenteMe/branding/master/examples/colors/university-pink.svg?sanitize=true) University Pink
 
 ![](https://raw.githubusercontent.com/TwenteMe/branding/master/examples/colors/university-pink.jpg)
 
-University Pink (#E056FD) is inspired by the University of Twente's pink branding and rooms.
+University Pink (#F000F0) is inspired by the University of Twente's pink branding and rooms.
 
 ## ![](https://raw.githubusercontent.com/TwenteMe/branding/master/examples/colors/oldenzaal-brick.svg?sanitize=true) Oldenzaal Brick
 
