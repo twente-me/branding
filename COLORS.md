@@ -1,5 +1,64 @@
 # Colors
 
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <img alt="" height="50" width="50" src="https://raw.githubusercontent.com/TwenteMe/branding/master/examples/colors/twente-red.svg?sanitize=true">
+        <div>Twente Red</div>
+        <div>#F00000</div>
+      </td>
+      <td>
+        <img alt="" height="50" width="50" src="https://raw.githubusercontent.com/TwenteMe/branding/master/examples/colors/enschede-sky.svg?sanitize=true">
+        <div>Enschede Sky</div>
+        <div>#0078F0</div>
+      </td>
+      <td>
+        <img alt="" height="50" width="50" src="https://raw.githubusercontent.com/TwenteMe/branding/master/examples/colors/sallandse-green.svg?sanitize=true">
+        <div>Sallandse Green</div>
+        <div>#00F078</div>
+      </td>
+      <td>
+        <img alt="" height="50" width="50" src="https://raw.githubusercontent.com/TwenteMe/branding/master/examples/colors/hellendoorn-gold.svg?sanitize=true">
+        <div>Hellendoorn Gold</div>
+        <div>#F9CA24</div>
+      </td>
+      <td>
+        <img alt="" height="50" width="50" src="https://raw.githubusercontent.com/TwenteMe/branding/master/examples/colors/university-pink.svg?sanitize=true">
+        <div>University Pink</div>
+        <div>#E056FD</div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img alt="" height="50" width="50" src="https://raw.githubusercontent.com/TwenteMe/branding/master/examples/colors/oldenzaal-brick.svg?sanitize=true">
+        <div>Oldenzaal Brick</div>
+        <div>#5D0000</div>
+      </td>
+      <td>
+        <img alt="" height="50" width="50" src="https://raw.githubusercontent.com/TwenteMe/branding/master/examples/colors/wierden-blue.svg?sanitize=true">
+        <div>Wierden Blue</div>
+        <div>#00F0F0</div>
+      </td>
+      <td>
+        <img alt="" height="50" width="50" src="https://raw.githubusercontent.com/TwenteMe/branding/master/examples/colors/saxion-green.svg?sanitize=true">
+        <div>Saxion Green</div>
+        <div>#00B894</div>
+      </td>
+      <td>
+        <img alt="" height="50" width="50" src="https://raw.githubusercontent.com/TwenteMe/branding/master/examples/colors/twickel-orange.svg?sanitize=true">
+        <div>Twickel Orange</div>
+        <div>#E47600</div>
+      </td>
+      <td>
+        <img alt="" height="50" width="50" src="https://raw.githubusercontent.com/TwenteMe/branding/master/examples/colors/vriezenveen-violet.svg?sanitize=true">
+        <div>Vriezenveen Violet</div>
+        <div>#5352ED</div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 ## ![](https://raw.githubusercontent.com/TwenteMe/branding/master/examples/colors/twente-red.svg?sanitize=true) Twente Red
 
 ![](https://raw.githubusercontent.com/TwenteMe/branding/master/examples/colors/twente-red.jpg)
@@ -59,3 +118,37 @@ Twickel Orange (#E47600) is inspired by the walls of Kasteel Twickel.
 ![](https://raw.githubusercontent.com/TwenteMe/branding/master/examples/colors/vriezenveen-violet.jpg)
 
 Vriezenveen Violet (#5352ED) is inspired by the blue drawbridge in Vriezenveen.
+
+## Twente Red variants
+
+### Shades
+
+<table>
+  <tbody>
+    <tr>
+      <td><img alt="#050000" src="http://www.singlecolorimage.com/get/050000/100x100"></td>
+      <td><img alt="#2C0000" src="http://www.singlecolorimage.com/get/2c0000/100x100"></td>
+      <td><img alt="#530000" src="http://www.singlecolorimage.com/get/530000/100x100"></td>
+      <td><img alt="#7A0000" src="http://www.singlecolorimage.com/get/7a0000/100x100"></td>
+      <td><img alt="#A20000" src="http://www.singlecolorimage.com/get/a20000/100x100"></td>
+      <td><img alt="#C90000" src="http://www.singlecolorimage.com/get/c90000/100x100"></td>
+      <td><img alt="#F00000" src="http://www.singlecolorimage.com/get/f00000/100x100"></td>
+    </tr>
+  </tbody>
+</table>
+
+### Tints
+
+<table>
+  <tbody>
+    <tr>
+      <td><img alt="#F00000" src="http://www.singlecolorimage.com/get/f00000/100x100"></td>
+      <td><img alt="#FF2C2C" src="http://www.singlecolorimage.com/get/ff2c2c/100x100"></td>
+      <td><img alt="#FF5353" src="http://www.singlecolorimage.com/get/ff5353/100x100"></td>
+      <td><img alt="#FF7A7A" src="http://www.singlecolorimage.com/get/ff7a7a/100x100"></td>
+      <td><img alt="#FFA2A2" src="http://www.singlecolorimage.com/get/ffa2a2/100x100"></td>
+      <td><img alt="#FFC9C9" src="http://www.singlecolorimage.com/get/ffc9c9/100x100"></td>
+      <td><img alt="#FFF0F0" src="http://www.singlecolorimage.com/get/fff0f0/100x100"></td>
+    </tr>
+  </tbody>
+</table>

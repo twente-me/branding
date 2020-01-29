@@ -4,7 +4,7 @@
 
 The Twente.me logo consists of in a Twente Red background (#F00000).
 
-## Colors
+## [Colors](./COLORS.md)
 
 <table>
   <tbody>
@@ -64,3 +64,5 @@ The Twente.me logo consists of in a Twente Red background (#F00000).
     </tr>
   </tbody>
 </table>
+
+[More about the color scheme →](./COLORS.md)
