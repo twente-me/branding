@@ -46,9 +46,9 @@ Twente Red is the official and primary color of the Twente.me project. It's insp
 
 - Hex: #0078F0
 
-## ![](https://raw.githubusercontent.com/TwenteMe/branding/master/examples/colors/saxion-green.svg?sanitize=true) Saxion Green
+## ![](https://raw.githubusercontent.com/TwenteMe/branding/master/examples/colors/sallandse-green.svg?sanitize=true) Sallandse Green
 
-- Hex: #00F078
+- Hex: #00B894
 
 ## ![](https://raw.githubusercontent.com/TwenteMe/branding/master/examples/colors/hellendoorn-gold.svg?sanitize=true) Hellendoorn Gold
 
@@ -66,9 +66,9 @@ Twente Red is the official and primary color of the Twente.me project. It's insp
 
 - Hex: #00F0F0
 
-## ![](https://raw.githubusercontent.com/TwenteMe/branding/master/examples/colors/sallandse-green.svg?sanitize=true) Sallandse Green
+## ![](https://raw.githubusercontent.com/TwenteMe/branding/master/examples/colors/saxion-green.svg?sanitize=true) Saxion Green
 
-- Hex: #00B894
+- Hex: #00F078
 
 ## ![](https://raw.githubusercontent.com/TwenteMe/branding/master/examples/colors/twickel-orange.svg?sanitize=true) Twickel Orange
 

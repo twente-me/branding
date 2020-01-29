@@ -20,8 +20,8 @@ The Twente.me logo consists of in a Twente Red background (#F00000).
         <div>#0078F0</div>
       </td>
       <td>
-        <img alt="" height="50" width="50" src="https://raw.githubusercontent.com/TwenteMe/branding/master/examples/colors/saxion-green.svg?sanitize=true">
-        <div>Saxion Green</div>
+        <img alt="" height="50" width="50" src="https://raw.githubusercontent.com/TwenteMe/branding/master/examples/colors/sallandse-green.svg?sanitize=true">
+        <div>Sallandse Green</div>
         <div>#00F078</div>
       </td>
       <td>
@@ -47,8 +47,8 @@ The Twente.me logo consists of in a Twente Red background (#F00000).
         <div>#00F0F0</div>
       </td>
       <td>
-        <img alt="" height="50" width="50" src="https://raw.githubusercontent.com/TwenteMe/branding/master/examples/colors/sallandse-green.svg?sanitize=true">
-        <div>Sallandse Green</div>
+        <img alt="" height="50" width="50" src="https://raw.githubusercontent.com/TwenteMe/branding/master/examples/colors/saxion-green.svg?sanitize=true">
+        <div>Saxion Green</div>
         <div>#00B894</div>
       </td>
       <td>
