@@ -87,25 +87,25 @@ Hellendoorn Gold (#F9CA24) is inspired by the bright yellow rides at Avonturenpa
 
 ![](https://raw.githubusercontent.com/TwenteMe/branding/master/examples/colors/university-pink.jpg)
 
-University Pink (#F000F0) is inspired by the University of Twente's pink branding and rooms.
+University Pink (#F000F0) is inspired by the University of Twente's pink branding and rooms. It's part of Twente Red's tetradic color scheme.
 
 ## ![](https://raw.githubusercontent.com/TwenteMe/branding/master/examples/colors/oldenzaal-brick.svg?sanitize=true) Oldenzaal Brick
 
 ![](https://raw.githubusercontent.com/TwenteMe/branding/master/examples/colors/oldenzaal-brick.jpg)
 
-Oldenzaal Brick (#5D0000) is inspired by the buildings in Oldenzaal.
+Oldenzaal Brick (#5D0000) is inspired by the buildings in Oldenzaal. It's a darker version of Twente Red and is also how Twente Red would look to someone with Atypical Achromatopsia.
 
 ## ![](https://raw.githubusercontent.com/TwenteMe/branding/master/examples/colors/wierden-blue.svg?sanitize=true) Wierden Blue
 
 ![](https://raw.githubusercontent.com/TwenteMe/branding/master/examples/colors/wierden-blue.jpg)
 
-Wierden Blue (#00F0F0) is inspired by the coat of arms of Wierden.
+Wierden Blue (#00F0F0) is inspired by the coat of arms of Wierden, and is the complementary color of Twente Red.
 
 ## ![](https://raw.githubusercontent.com/TwenteMe/branding/master/examples/colors/saxion-green.svg?sanitize=true) Saxion Green
 
 ![](https://raw.githubusercontent.com/TwenteMe/branding/master/examples/colors/saxion-green.jpg)
 
-Saxion Green (#00F078) is inspired by the branding of Saxion University of Applied Sciences.
+Saxion Green (#00F078) is inspired by the branding of Saxion University of Applied Sciences, and is one of the two split complementary colors of Twente Red.
 
 ## ![](https://raw.githubusercontent.com/TwenteMe/branding/master/examples/colors/twickel-orange.svg?sanitize=true) Twickel Orange
 
