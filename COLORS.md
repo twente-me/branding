@@ -1,6 +1,6 @@
 # Colors
 
-## Twente Red
+## ![](http://www.singlecolorimage.com/get/f00000/30x30) Twente Red
 
 Twente Red is the official and primary color of the Twente.me project. It's inspired by the color of the region of Twente, as showcased by the red in the logos for FC Twente and Twente Branding.
 
@@ -39,3 +39,41 @@ Twente Red is the official and primary color of the Twente.me project. It's insp
     </tr>
   </tbody>
 </table>
+
+## Color palette
+
+## ![](http://www.singlecolorimage.com/get/#0078f0/30x30) Enschede Sky
+
+- Hex: #0078F0
+
+## ![](http://www.singlecolorimage.com/get/#00f078/30x30) Saxion Green
+
+- Hex: #00F078
+
+## ![](http://www.singlecolorimage.com/get/#f9ca24/30x30) Hellendoorn Gold
+
+- Hex: #F9CA24
+
+## ![](http://www.singlecolorimage.com/get/#e056fd/30x30) University Pink
+
+- Hex: #E056FD
+
+## ![](http://www.singlecolorimage.com/get/#5d0000/30x30) Oldenzaal Brick
+
+- Hex: #5D0000
+
+## ![](http://www.singlecolorimage.com/get/#00f0f0/30x30) Wierden Blue
+
+- Hex: #00F0F0
+
+## ![](http://www.singlecolorimage.com/get/#00b894/30x30) Sallandse Green
+
+- Hex: #00B894
+
+## ![](http://www.singlecolorimage.com/get/#e47600/30x30) Twickel Orange
+
+- Hex: ##E47600
+
+## ![](http://www.singlecolorimage.com/get/#5352ed/30x30) Vriezenveen Violet
+
+- Hex: #5352ED
